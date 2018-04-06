@@ -1183,5 +1183,17 @@
     {
         "name": "Evening Night",
         "colors": ["#005AA7", "#FFFDE4"]
+    },
+      {
+        "name": "Deep",
+        "colors": ["#1D2786", "#2FE1D6"]
+    },
+        {
+        "name": "Anemone",
+        "colors": ["#6b65d8", "#97FFCF"]
+    },
+          {
+        "name": "Peach",
+        "colors": ["#ff8364", "#ff6464", "#f12b69"]
     }
 ]
